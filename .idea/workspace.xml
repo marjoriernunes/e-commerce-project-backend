@@ -31,7 +31,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f110054b-3cc8-4fef-ac69-9fd9a21d4998" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/miss-marge/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/miss-marge/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miss-marge/src/main/java/com/ecommerce/missmarge/MissMargeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/miss-marge/src/main/java/com/ecommerce/missmarge/api/MissMargeApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\_projects\e-commerce-project-backend\miss-marge\src\main\java\com\ecommerce\missmarge\api" />
       <recent name="C:\_projects\e-commerce-project-backend\miss-marge" />
     </key>
   </component>
