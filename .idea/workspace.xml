@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eee651a-dc7f-4b7d-a77b-0be9e462d8d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miss-marge/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/miss-marge/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miss-marge/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/miss-marge/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="f110054b-3cc8-4fef-ac69-9fd9a21d4998" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/e-commerce-project-backend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/miss-marge/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/miss-marge/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/miss-marge/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/miss-marge/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/miss-marge/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/miss-marge/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/miss-marge/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/miss-marge/src/main/java/com/ecommerce/missmarge/MissMargeApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/miss-marge/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/miss-marge/src/test/java/com/ecommerce/missmarge/MissMargeApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +26,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1e3uZcDKouiTMdnaOrC8Avh1ftj" />
+  <component name="ProjectId" id="1e6X1f5Y0WQe84du1A5BuQyqiOe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,19 +35,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/marge_ecommerce" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2eee651a-dc7f-4b7d-a77b-0be9e462d8d7" name="Default Changelist" comment="" />
-      <created>1593562653930</created>
+      <changelist id="f110054b-3cc8-4fef-ac69-9fd9a21d4998" name="Default Changelist" comment="" />
+      <created>1593642806724</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593562653930</updated>
+      <updated>1593642806724</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1593642909292">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1593642909292" />
   </component>
 </project>
