@@ -1,22 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f110054b-3cc8-4fef-ac69-9fd9a21d4998" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/e-commerce-project-backend.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miss-marge/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miss-marge/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miss-marge/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miss-marge/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miss-marge/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miss-marge/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miss-marge/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miss-marge/src/main/java/com/ecommerce/missmarge/MissMargeApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miss-marge/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miss-marge/src/test/java/com/ecommerce/missmarge/MissMargeApplicationTests.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/e-commerce-project-backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +52,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/marge_ecommerce" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\_projects\e-commerce-project-backend\miss-marge" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -50,10 +73,21 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1593642909292">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1593643382151">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1593642909292" />
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1593643382151" />
   </component>
 </project>
