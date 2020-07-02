@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Miss-Marge" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Miss-Marge.</description>
+</project>
