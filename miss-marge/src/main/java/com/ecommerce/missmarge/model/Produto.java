@@ -27,6 +27,15 @@ public class Produto {
 	
 	@Column(name = descricao_imagem)
 	private String descricaoImagem;
+	
+	public Produto(BigInteger quantidadeEstoque, String nomeProduto, String descricaoProduto, BigDecimal valorProduto, String caminhoImagem, String descricaoImagem ) {
+		this.quantidadeEstoque = quantidadeEstoque;
+		this.nomeProduto = nomeProduto;
+		this.descricaoProduto = descricaoProduto;
+		this.valorProduto = valorProduto;
+		this.caminhoImagem = caminhoImagem;
+		this.descricaoImagem = descricaoImagem;
+	}
 
 	public Long getId() {
 		return id;
